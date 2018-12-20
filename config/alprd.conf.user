@@ -2,3 +2,4 @@
 ; in ${CMAKE_INSTALL_PREFIX}/share/openalpr/config/alprd.defaults.conf
 [daemon]
 
+debug_detector=1
